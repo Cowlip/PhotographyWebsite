@@ -8,7 +8,7 @@ font-family: 'Times New Roman', Times, serif;
 
 header{
 
-background-color: lightblue;
+background-color: rgb(0, 0, 0);
 
 text-align: center;
 
@@ -16,7 +16,7 @@ margin-top:-20px;
 
 height: 30%;
 
-color: green;
+color: rgb(255, 255, 255);
 
 margin-bottom: 20px;
 
@@ -74,7 +74,7 @@ height: 400px;
 
 width:500px;
 
-border: 3px dashed red;
+border: 3px dashed rgba(255, 255, 255, 0);
 
 padding: 5px;
 
@@ -86,7 +86,7 @@ float: right;
 
 footer{
 
-background-color: lightblue;
+background-color:rgb(0, 0, 0);
 
 text-align: center;
 
@@ -96,7 +96,7 @@ bottom: 0;
 
 width: 100%;
 
-color: green;
+color: rgb(255, 255, 255);
 
 }
 
@@ -104,7 +104,7 @@ nav li{
 
 display: inline;
 
-background-color: maroon;
+background-color: rgb(189, 17, 17);
 
 padding: 10px;
 
